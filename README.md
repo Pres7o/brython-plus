@@ -1,4 +1,6 @@
-<div align="center"><img src="/res/brython.png" alt="Brython+"></div>
+<div align="center"><a href="https://brython-plus.pages.dev/"><h1><img src="/res/brython.png" alt="Brython+"></h1></a></div>
+
+
 
 <p>An extension of Brython for easier programming.</p>
 
