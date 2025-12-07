@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>test.html</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <script type="text/javascript" src="/dist/brython.js"></script>
+    <script type="text/python" src="/src/brython-plus.py"></script>
+    <script type="text/python" src="/src/markdown.py"></script>
+    <script type="text/python" src="/src/purify.py"></script>
+
+    <script type="text/python" src="/test.py"></script>
+  </head>
+  <body>
+    <h1>test.html</h1>
+    <p>
+      This file is a test file for testing the functionality of every library.
+      <b><u>DO NOT</u></b> refresh this document repeatedly, it will rapidly
+      increase your mem usage!
+    </p>
+    <br />
+    
+    <h2>DOM Module</h2>
+    <hr />
+    <p id="test-text"></p>
+    <br />
+    <hr />
+
+    <p id="test-md"></p>
+    <br />
+    <p id="test-purify"></p>
+  </body>
+</html>
