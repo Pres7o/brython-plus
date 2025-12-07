@@ -1,13 +1,11 @@
 <div align="center">
-  <a href="https://brython-plus.pages.dev/">
-    <h1>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="/res/dark.png">
-        <source media="(prefers-color-scheme: light)" srcset="/res/light.png">
-        <img alt="Fallback image description" src="/res/dark.png">
-      </picture>
-    </h1>
-  </a>
+  <h1>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/res/dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="/res/light.png">
+      <img alt="Fallback image description" src="/res/dark.png">
+    </picture>
+  </h1>
 </div>
 
 <p>An extension of Brython for easier programming.</p>
