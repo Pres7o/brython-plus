@@ -1,6 +1,6 @@
-![Brython+](/res/brython.png)
+<div align="center"><img src="/res/brython.png" alt="Brython+"></div>
 
-An extension of Brython for easier programming.
+<p>An extension of Brython for easier programming.</p>
 
 ## Libraries & Versions Used
 - [Brython](https://github.com/brython-dev/brython), [v3.14.0](https://github.com/brython-dev/brython/releases/tag/3.14.0)
